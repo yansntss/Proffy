@@ -13,10 +13,16 @@
 
 ## 🖥 Preview 
 
+## Web-version responsive 💻
 <p align="center">
-  <img src="https://media.giphy.com/media/SVBqCmAdV0to8Of9eW/giphy.gif" width="700" >
+  <img src="https://media.giphy.com/media/SWtdsRcO0gOuPxWwQ1/giphy.gif" width="700" >
 </p>
 
+## Mobile-version responsive 📱
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Tjq0HFtGd3jTmhDeES/giphy.gif" width="631" >
+</p>
 ---
 
 ## 📖 Sobre 
@@ -34,8 +40,9 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- <s>Node.js</s> (Em construção 🚧)
-- <s>Nunjucks</s> (Em construção 🚧)
+- Node.js 
+- Nunjucks 
+- <s>SQLite</s> (Em desenvolvimento 🚧)
 
 --- 
 
@@ -47,7 +54,17 @@ git clone https://github.com/yansntss/Proffy.git
 
 # Entrar no diretório
 cd proffy
+
+# Baixar as dependências
+npm install
+
+# Executar o servidor
+npm run dev
 ```
+
+Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
+
+
 
 Pode usar qualquer extensão ou ferramenta no seu editor para criar um servidor local, como por exemplo o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) .
 
@@ -61,3 +78,4 @@ Desenvolvido com 💜 por Yan Santos, sinta-se a vontade para tirar quais quer d
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yanstnss)](https://twitter.com/NpmYan)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55075988606100&text=Olá!)](https://api.whatsapp.com/send?phone=55075988606100&text=Olá!)
   
+ 
