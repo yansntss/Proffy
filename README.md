@@ -42,7 +42,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - JavaScript
 - Node.js 
 - Nunjucks 
-- <s>SQLite</s> (Em desenvolvimento 🚧)
+- SQLite
 
 --- 
 
@@ -64,9 +64,6 @@ npm run dev
 
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
-
-
-Pode usar qualquer extensão ou ferramenta no seu editor para criar um servidor local, como por exemplo o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) .
 
 ---
 
